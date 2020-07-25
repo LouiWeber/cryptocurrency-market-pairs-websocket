@@ -5,6 +5,8 @@ Originally built for Envato, but they rejected it due to third party dependency,
 **You can see a demo here: https://websocketdemo.superstack.io/cryptocurrency-market-pairs-websocket/**
 ## What is included?
 
+Feel free to fork and amend the code accordingly.
+
 ![https://imgur.com/a/Z8wdnbZ](https://i.imgur.com/ttnCuL2.png)
 
 ```
