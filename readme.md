@@ -1,5 +1,4 @@
 # Cryptocurrency Market Pairs Websocket
-![websocket](https://i.imgur.com/0k49gMd.png)
 
 Originally built for Envato, but they rejected it due to third party dependency, so I thought just release it for free here.
 
