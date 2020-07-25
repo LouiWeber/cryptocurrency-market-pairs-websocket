@@ -22,10 +22,6 @@ project
 │       │   ...
 │   └───css
 │       │   bootstrap.css
-│   └───icons
-│       │   abt.png
-│       │   btc.png
-│       │   ...
 │   └───js
 │       │   bootstrap.js
 │       │   jquery.min.js
