@@ -185,17 +185,10 @@
     <script>
 
         var symDiff=[];
-        /*
+	// Content Delivery Network Option
+    	var iconUrl='https://cdn.executium.com/media/brands/icons/';
 
-            // Content Delivery Network Option
-            var iconUrl='https://cdn.executium.com/media/brands/icons/';
-
-        */
-        var iconUrl='assets/icons/';
-
-
-
-		function tableSymbols(exchange)
+	function tableSymbols(exchange)
         {
             $('.exchange-name').empty().html('<img src="assets/circle/'+exchange.toLowerCase()+'.png" class="imgcheck" style="width:30px;height:30px;" /> '+capitalize(exchange));
             $('.symbols-supported,.symbols-showing').empty().html('&hellip;');
