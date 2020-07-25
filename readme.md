@@ -1,9 +1,12 @@
 # Cryptocurrency Market Pairs Websocket
 ![websocket](https://i.imgur.com/0k49gMd.png)
 
-Thank you for purchasing first of all.
+Originally built for Envato, but they rejected it due to third party dependency, so I thought just release it for free here.
 
+**You can see a demo here: https://websocketdemo.superstack.io/cryptocurrency-market-pairs-websocket/**
 ## What is included?
+
+![https://imgur.com/a/Z8wdnbZ](https://i.imgur.com/ttnCuL2.png)
 
 ```
 project
@@ -156,9 +159,6 @@ There is fair usage limits applied to the feeds, and these can be further negioa
 
 ## Sync clock / why is the time negative? why is the time so far ahead?
 You should look at the documentation provided [here](https://marketdata.executium.com/realtime-cryptocurrency-market-prices-websockets/) for more information about your local clock. Users sytems clock can get massively out of sync. Atomic clock sync is recommended for this method. As a rule you wouldn't really show this countdown to an end user as it has no value. We left it in for this as it could prove somewhat useful to advance your understanding.
-
-## Additional support
-We can provide extended support for a cost and field questions and help you shape the script better.
 
 ### NOTICE
 We are in noway affiliated with executium and cannot control the feed they provide. It should be noted that this is a service provided directly by them and we offer the means to connect to the websockets easily while showing how you can put a nice responsive design around it.
